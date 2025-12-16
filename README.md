@@ -1,6 +1,10 @@
 # Bypass_Webshell
 webshell编码工具 支持 jsp net php asp编码免杀
 
+界面:
+<img width="866" height="652" alt="image" src="https://github.com/user-attachments/assets/6e5fadce-98d2-40c3-aa57-95f45ea92906" />
+
+
 
 jsp
 
